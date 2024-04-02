@@ -1,2 +1,8 @@
 obj
 bin
+
+
+.vscode
+
+# Ignorar todos los archivos dentro de carpetas llamadas .env
+**/.env/*
